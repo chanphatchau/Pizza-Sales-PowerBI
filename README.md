@@ -6,7 +6,7 @@ This project presents an interactive dashboard built with **Power BI** to explor
 
 ## 🎯 Project Objective
 
-To visualize and analyze pizza sales performance by identifying peak ordering times, popular product categories, and ingredient preferences using dynamic dashboards in Power BI.
+To visualise and analyze pizza sales performance by identifying peak ordering times, popular product categories, and ingredient preferences using dynamic dashboards in Power BI.
 
 ---
 
@@ -51,7 +51,7 @@ To visualize and analyze pizza sales performance by identifying peak ordering ti
 - Peak sales occur during **weekend evenings**, while **breakfast items underperform**.  
 - **Classic and Supreme pizzas** generate the highest revenue.  
 - The most popular ingredients include **mozzarella, pepperoni, and mushrooms**.  
-- Average order intervals reveal opportunities for **staffing optimization**.
+- Average order intervals reveal opportunities for **staffing optimisation**.
 
 ---
 
