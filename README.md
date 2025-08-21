@@ -60,7 +60,7 @@ The dataset includes:
   - Avg time per Order
   - Category contribution and size mix (L/M/S/XL)
 
-  ![Sales Peformance](assets/sales-peformance.png)
+  ![Sales Performance](assets/sales-performance.png)
  
 - **Ingredients and Category Performance**
   - Frequency of ingredients by category to support prep and purchasing  
